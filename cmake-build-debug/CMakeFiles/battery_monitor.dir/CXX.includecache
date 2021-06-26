@@ -1,0 +1,36 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/samox/git/battery-monitor/StaticIndexGenerator.h
+
+/home/samox/git/battery-monitor/main.cpp
+gtkmm-3.0/gtkmm.h
+-
+iostream
+-
+fstream
+-
+thread
+-
+sstream
+-
+string
+-
+./timer.h
+/home/samox/git/battery-monitor/timer.h
+
+/home/samox/git/battery-monitor/timer.h
+functional
+-
+thread
+-
+utility
+-
+./StaticIndexGenerator.h
+/home/samox/git/battery-monitor/StaticIndexGenerator.h
+
